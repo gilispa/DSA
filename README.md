@@ -5,4 +5,4 @@ It contains problem-solving exercises from different platforms and resources to 
 
 ## Relevant Resources
 
-- GeeksforGeeks – 160 Days of DSA Challenge
+- [GeeksforGeeks – 160 Days of DSA Challenge](https://www.geeksforgeeks.org/batch/gfg-160-problems?tab=Chapters)
